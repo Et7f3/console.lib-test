@@ -1,0 +1,6 @@
+install npm
+install esy.sh on npm https://www.npmjs.com/package/esy
+open shell/cmd.exe go in this folder and type:
+esy i
+esy b
+esy run
