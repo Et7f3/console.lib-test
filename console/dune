@@ -1,0 +1,9 @@
+(library
+   (name Console)
+   (public_name App.console)
+   (c_names nativeChannels)
+   (js_of_ocaml
+     (flags (--pretty))
+     (javascript_files  nativeChannels.js)
+   )
+  )

@@ -2,4 +2,4 @@
     (name main)
     (package App)
     (public_name App)
-    (libraries console.lib))
+    (libraries App.console))
